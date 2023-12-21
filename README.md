@@ -1,2 +1,3 @@
+visit both app and website
 website link:-https://rakshaths-tic-tac-toe.tiiny.site/
-app link:- 
+app link:- https://github.com/Rakshath66/Tic-Tac-Toe-App-and-Website/tree/main/app
